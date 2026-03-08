@@ -1,0 +1,7 @@
+{
+  "name": "E-Voting KMT UHO Konawe",
+  "description": "Sistem pemilihan elektronik untuk Keluarga Mahasiswa Teknik Universitas Halu Oleo Konawe dengan fitur manajemen pemilih dan real-time results.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
